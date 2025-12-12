@@ -15,7 +15,7 @@ This config uses short and simple aliases to shorten github commands.
 
 
 ## THEME AND COLORS
-This config makes use of the Powerlevel10k terminal theme. Colors have been changed to match my go-to IDE theme 'Cobalt2' and also minimize the information displayed to both show essential but also useful information (listed in order from left to right side of the terminal prompt):
+This config makes use of the Powerlevel10k terminal theme. Colors have been changed to match my go-to IDE theme 'Cobalt2', 'SynthWave 84', and 'Ubuntu Color Theme' based on the profiles I'm using (toolkit, default, or learning) and also minimize the information displayed to both show essential but also useful information (listed in order from left to right side of the terminal prompt):
 
 ### LEFT
 1. **Status** - Exit code of the last command (only shows if there was an error)
